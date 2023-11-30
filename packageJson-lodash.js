@@ -15,7 +15,15 @@
  3. npm init -y (everything by default)
  package name is always unique
 
+ To install package as dev dependency
+ npm i <package name> -D (or) npm i <package name> --save-dev
  
+To uninstall a package 
+npm uninstall <package name>
+
+Remove nodemodules and package-lock.json and the run npm install then all files get restored
+
+
  */
 
 //  using lodash

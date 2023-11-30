@@ -1,0 +1,1 @@
+This is awesome done with promise attched to require : Hello this is first text file  Hello this is second text file 
